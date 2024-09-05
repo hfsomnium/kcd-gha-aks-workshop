@@ -12,7 +12,7 @@ permissions:
 env:
    RESOURCE_GROUP: githubActionResourceGroup
    AKS_CLUSTER_NAME: githubActionAKSCluster
-   LOCATION: australiaeast
+   LOCATION: australiasoutheast
 
 jobs:
   build:
